@@ -8,10 +8,5 @@
 Homestead.json
 Homestead.yaml
 npm-debug.log
-<<<<<<< HEAD
-yarn-error.
-webserve-3000.cmd
-=======
 yarn-error.log
 webserve-3000.cmd
->>>>>>> cb6f0ec7581d1cf0b1a65fdd14e9948cd6b49754
